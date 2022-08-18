@@ -17,7 +17,7 @@ func TestSingle(test *testing.T) {
 		"build":          "golangsuite",
 		"name":           "Testcase01",
 	})
-	if webDriver, err = selenium.NewRemote(caps, "http://anishmehta:2fcF9J3BAFO7UoVjT3NAl9LbO5p1VgSpKXGq8XO2t0WUa4189E@hub.lambdatest.com/wd/hub"); err != nil {
+	if webDriver, err = selenium.NewRemote(caps, "http://Your_LT_Username:Your_LT_Accesskey@hub.lambdatest.com/wd/hub"); err != nil {
 		fmt.Printf("Failed to open session: %s\n", err)
 		return
 	}
