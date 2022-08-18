@@ -1,0 +1,38 @@
+[
+	{
+		"ltoptions:options": {
+			"platformName": "Windows 10",
+			"resolution": "1920x1080"
+			
+		},
+		"browserName": "Firefox",
+		"browserVersion": "latest"
+	},
+	{
+		"ltoptions:options": {
+			"platformName": "Windows 11",
+			"resolution": "1920x1080"
+			
+		},
+		"browserName": "Chrome",
+		"browserVersion": "latest"
+	},
+	{
+		"ltoptions:options": {
+			"platformName": "Windows 10",
+			"resolution": "1920x1080"
+			
+		},
+		"browserName": "safari",
+		"browserVersion": "latest"
+	},
+	{
+		"ltoptions:options": {
+			"platformName": "Windows 10",
+			"resolution": "1920x1080"
+			
+		},
+		"browserName": "MicrosoftEdge",
+		"browserVersion": "latest"
+	}
+]
